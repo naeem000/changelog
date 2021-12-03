@@ -5,7 +5,7 @@
 • Updated blobs from S62Pro RKQ1.210406.002 
 • Replaced DeviceSettings with minimalist XiaomiParts
 • Bluetooth (aptX) - from sunfish RQ1A.201205.008
-• Wwitch to Raven Build FP
+• Witch to Raven Build FP
 
 ROM changes:
 ==============================
