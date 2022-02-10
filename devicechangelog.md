@@ -3,7 +3,7 @@ Note:
 
 Device changes:
 ==============================
-enforcing Build
+enforcing User-Build
 Quick-Tap enabled
 Priv-app permissions updated
 ------------------------------
