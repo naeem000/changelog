@@ -3,9 +3,18 @@ Note:
 
 Device changes:
 ==============================
-enforcing User-Build
+sdm660-common: Makefile: Drop QTI thermal 2.0 service hal
+sdm660-common: Remove obsolete debug.sf.disable_backpressure property
+sdm660-common: Fix neverallows
+sdm660-common: rootdir: Force Enable DT2W
+sdm660-common: Revert rootdir: Disable EAS on early-init
+sdm660-common: rootdir: Revert Enable EAS after boot
+sdm660-common: Make powerhal starts handling powerhint after bootcomplete
+sdm660-common: XiaomiParts: Fix missing ambient display string
 Quick-Tap enabled
 Priv-app permissions updated
+SELinux status Enforcing
+User Build
 ------------------------------
 
 ROM changes:
